@@ -1,0 +1,12 @@
+# Compiled Java classes
+*.class
+
+# Microsoft Office temporary lock files
+~$*.docx
+~$*.xlsx
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
