@@ -10,3 +10,6 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
+
+# Python scripts
+*.py
